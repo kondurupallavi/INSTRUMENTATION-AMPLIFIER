@@ -40,5 +40,5 @@ GRAPH:
 
 
 RESULT:
-<img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/42180313-c95d-46c5-b1c7-bb6730dedafc" />
+<img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/42180313-c95d-46c5-b1c7-bb6730dedafc" />.
 
